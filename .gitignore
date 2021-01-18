@@ -1,4 +1,1 @@
-.build
-nrf_connect_sdk
-*.run
-zephyr_sdk
+build

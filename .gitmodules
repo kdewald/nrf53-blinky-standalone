@@ -1,0 +1,18 @@
+[submodule "external/nrf_connect_sdk/mcuboot"]
+	path = external/nrf_connect_sdk/mcuboot
+	url = git@github.com:nrfconnect/sdk-mcuboot.git
+[submodule "external/nrf_connect_sdk/nrf"]
+	path = external/nrf_connect_sdk/nrf
+	url = git@github.com:nrfconnect/sdk-nrf.git
+[submodule "external/nrf_connect_sdk/nrfxlib"]
+	path = external/nrf_connect_sdk/nrfxlib
+	url = git@github.com:nrfconnect/sdk-nrfxlib.git
+[submodule "external/nrf_connect_sdk/modules/hal/nordic"]
+	path = external/nrf_connect_sdk/modules/hal/nordic
+	url = git@github.com:zephyrproject-rtos/hal_nordic
+[submodule "external/nrf_connect_sdk/modules/hal/cmsis"]
+	path = external/nrf_connect_sdk/modules/hal/cmsis
+	url = git@github.com:zephyrproject-rtos/cmsis
+[submodule "external/nrf_connect_sdk/zephyr"]
+	path = external/nrf_connect_sdk/zephyr
+	url = git@github.com:nrfconnect/sdk-zephyr.git
